@@ -1,0 +1,23 @@
+.navbar-brand{
+    border-radius: 0%;
+    padding: 0.8%;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.container-fluid{
+    padding-bottom: 50px    
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.parceiros{
+    background-color: yellow;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
